@@ -1,0 +1,426 @@
+
+.title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+}
+.cuerpo{
+    background-color: rgb(0, 120, 194);
+}
+#va{
+    
+    background-color: rgb(195, 114, 233);
+    position: absolute;
+    
+}
+#va2{
+    
+    background-color: rgb(248, 119, 68);
+    position: absolute;
+    
+}
+#va3{
+    
+    background-color: rgb(248, 119, 68);
+    position: absolute;
+    margin-left: 1px;
+    margin-top: 82px;
+    
+}
+#va4{
+    
+    background-color: rgb(248, 119, 68);
+    position: absolute;
+    margin-left: 1px;
+    margin-top: 245px;
+    
+}
+.atomico{
+    font-size: 15px;
+    line-height: 15px;
+}
+.simbolo{
+    font-size: 30px;
+    line-height: 3px; 
+    text-align: center;
+}
+.nombre{
+    font-size: 13px;
+    line-height: 1px;
+}
+.peso{
+    font-size: 10px;
+    line-height: 1px;
+}
+.nombre1{
+    line-height: 75px;
+    font-size: 13px;
+}
+.container{
+    border: 0px;
+}
+#principal{
+    float: float;
+    display: block;
+    width: 1200;
+}
+
+.periodo{
+    display:flex;
+    flex-wrap: nowrap;
+    width: 1200px;
+    height: 80px;
+    margin-bottom: 5px;
+}
+
+.elemento{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+
+}
+.elemento1{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: violet;
+
+}
+.elemento2{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: orangered;
+
+}
+
+.elemento3{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: red;
+}
+.elemento4{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;background-color: rgb(253, 0, 84);
+}
+.elemento5{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: rgb(11, 157, 11);
+}
+.elemento6{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: rgb(21, 235, 21);
+}
+.elemento7{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: rgb(35, 83, 255);
+}
+.elemento8{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: rgb(0, 254, 170);
+}
+.elemento9{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: rgb(179, 10, 194);
+}
+.elemento10{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: greenyellow;
+}
+.elemento11{
+    display:block;
+    width: 64px;
+    height: 80px;
+    margin: 3px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: rgb(95, 6, 177);
+    color: white;
+}
+.elementogrande{
+    width: 100px; 
+    height: 100px; 
+    border: 1px solid #000;
+    border-radius: 5px; 
+    display: block;
+    padding: 10px; 
+    margin: 10px;
+    background-color:  rgb(253, 0, 84); 
+    color: white;
+}
+.elementoa{
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:rgb(254, 72, 5);
+    font-size: 12px;
+    white-space: nowrap;
+    position: absolute;;
+    top: 50px;
+    margin: 3pc;
+    margin-left: 485px;
+}
+.textop{
+    position: absolute;
+    margin-left: 505px;
+    font-size: 13px;
+    margin-top:45px;
+}
+.textob{
+    position: absolute;
+    margin-left: 620px;
+    font-size: 13px;
+    margin-top: 45px;
+}
+.textoc{
+    position: absolute;
+    margin-left: 510px;
+    font-size: 13px;
+    margin-top: -50px;
+}
+.textol{
+    position: absolute;
+    margin-left: 510px;
+    font-size: 13px;
+    margin-top: -1px;
+}
+.textoe{
+    position: absolute;
+    margin-left: 620px;
+    font-size: 13px;
+    margin-top: 15px;
+}
+.textof{
+    position: absolute;
+    margin-left: 510px;
+    font-size: 13px;
+    margin-top: 15px;
+}
+.textog{
+    position: absolute;
+    margin-left: 510px;
+    font-size: 10px;
+    margin-top: -13px;
+}
+.textoh{
+    position: absolute;
+    margin-left: 620px;
+    font-size: 13px;
+    margin-top: -15px;
+}
+.textoi{
+    position: absolute;
+    margin-left: 510px;
+    font-size: 13px;
+    margin-top: 50px;
+}
+.textoj{
+    position: absolute;
+    margin-left: 620px;
+    font-size: 13px;
+    margin-top: -50px;
+}
+
+.textoz{
+    position: absolute;
+    margin-left: 623px;
+    font-size: 13px;
+    margin-top: -1px;
+}
+
+.elementob{
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:rgb(0, 255, 166);
+    font-size: 12px;
+    white-space: nowrap;
+    position: absolute;
+    margin: 3pc;
+    margin-left: 600px;
+    top: 55px;
+    color: white;
+}
+
+.elementoc{
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:orangered;
+    font-size: 12px;
+    white-space: nowrap;
+    margin: 3pc;
+    position:relative;
+    top: -50px;
+    margin-left: 40px;
+    color: white;
+}
+.elementod{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:orangered;
+    font-size: 12px;
+    white-space: nowrap;
+    margin: 3pc;
+    position:relative;
+    top: -50px;
+    color: white;
+}
+.elementoe{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:rgb(236, 234, 238);
+    font-size: 12px;
+    white-space: nowrap;
+    margin: 3pc;
+    position:absolute;
+    top: 195px;
+    margin-left: 600px;
+    color: white;
+}
+.elementof{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:rgb(217, 210, 24);
+    font-size: 12px;
+    white-space: nowrap;
+    margin: 3pc;
+    position:absolute;
+    top: 225px;
+    margin-left: 485px;
+    color: white;
+}
+.elementog{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:rgb(243, 0, 134);
+    font-size: 12px;
+    white-space: nowrap;
+    margin: 0.4pc;
+    position:absolute;
+    top: 203px;
+    margin-left: 485px;
+    color: white;
+}
+.elementoh{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:rgb(35, 83, 255);
+    font-size: 12px;
+    white-space: nowrap;
+    position:absolute;
+    margin: 4pc;
+    margin-left: 600px;
+    top: 145px;
+    color: white;
+}
+.elementoi{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:rgb(40, 255, 130);
+    font-size: 12px;
+    white-space: nowrap;
+    margin: 2pc;
+    position:absolute;
+    margin-left: 485px;
+    top: 210px;
+    color: white;
+    
+}
+.elementoj{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:orangered;
+    font-size: 12px;
+    white-space: nowrap;
+    margin: 4pc;
+    position:absolute;
+    margin-left: 600px;
+    top: 110px;
+    color: white;
+    
+}
+.elementok{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color:rgb(37, 118, 36);
+    font-size: 12px;
+    white-space: nowrap;
+    margin: 1pc;
+    position:absolute;
+    margin-left: 485px;
+    top: 160px;
+    color: white;
+}
+
+.no-border {
+    border: none;
+}
